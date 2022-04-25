@@ -1,4 +1,4 @@
-# react-practice-timed
+# A To-do list in React (timed)
 
 
 As a user, I want to:
